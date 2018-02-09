@@ -5,4 +5,4 @@ def current_age_for_birth_year (year)
   expect (age_of_person).to eq(19)
 end
 
-Year = 1984
+year = 1984
